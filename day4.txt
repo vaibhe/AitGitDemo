@@ -1,0 +1,34 @@
+--------------------SDLC DAY-4-------------------------
+
+
+1) Defect id    -->                Defect Age ,RCA
+2) Defect description 
+3) Module name 
+4) Steps to reproduce 
+5) Severity
+6) Priority
+7) Test environment details
+
+switchTo() --> switches the window 
+alert() --> it is used to give popup
+selectByVisibleText("Antartica") 	
+
+
+This is Full Xpath
+/html/body/div/div/div[2]/div[1]/div/div/form/input
+
+This is Relative Xpath
+//*[@id="user-name"]
+
+--------GIT------------------------
+Centrailized Version Control System = Only one user can write at a time and other will only read for that time 
+
+
+Distributed Version Control System = Multiple users can work simultaneously
+
+
+How Continous Integration : The entire source code
+
+
+
+Docker: It is a Containerization platform which packages your application & all its dependencies together in the form of Containers,to ensure that your applictation works seamlesslyin any environment be it Development/Test/Production. 
